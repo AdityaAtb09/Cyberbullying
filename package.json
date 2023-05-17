@@ -1,0 +1,16 @@
+{
+  "name": "cyber-security",
+  "productName": "Tackling Cyberbullying",
+  "version": "1.0.0",
+  "description": "App for cyber security",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Aditya Atbhaiya",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^22.0.1",
+    "toastify-js": "^1.12.0"
+  }
+}
